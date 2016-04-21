@@ -1,0 +1,15 @@
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\bin\Debug\MIDI_Notes_Counter.exe
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\bin\Debug\MIDI_Notes_Counter.pdb
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\bin\Debug\NAudio.dll
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\bin\Debug\NAudio.xml
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter.g.resources
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter.exe
+E:\Dropbox\!Coding\All_in_one\MIDI_Notes_Counter\MIDI_Notes_Counter\obj\Debug\MIDI_Notes_Counter.pdb
